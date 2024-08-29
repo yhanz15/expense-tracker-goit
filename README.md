@@ -1,6 +1,6 @@
 <h1 align="center"> 👨‍💻 GOIT Individual Project 👩‍💻 </h1>
 <h2 align="center">   Expenses Tracker 💸   </h2>
-<h3 align="center">  Jennifer Durana  </h3>
+<h3 align="center">  Ian "Yhanz" To-ong  </h3>
 
 <span align="center">
 
