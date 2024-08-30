@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/track-expenses/static/css/main.f773d2b2.css",
-    "main.js": "/track-expenses/static/js/main.29c15589.js",
+    "main.js": "/track-expenses/static/js/main.4fc14b94.js",
     "static/js/276.70b6b7e1.chunk.js": "/track-expenses/static/js/276.70b6b7e1.chunk.js",
     "static/js/757.d80a40af.chunk.js": "/track-expenses/static/js/757.d80a40af.chunk.js",
     "static/js/413.b1806df1.chunk.js": "/track-expenses/static/js/413.b1806df1.chunk.js",
@@ -28,7 +28,7 @@
     "index.html": "/track-expenses/index.html",
     "static/media/eye.svg": "/track-expenses/static/media/eye.eeff295c23781fcaf0988e367a1f8870.svg",
     "main.f773d2b2.css.map": "/track-expenses/static/css/main.f773d2b2.css.map",
-    "main.29c15589.js.map": "/track-expenses/static/js/main.29c15589.js.map",
+    "main.4fc14b94.js.map": "/track-expenses/static/js/main.4fc14b94.js.map",
     "276.70b6b7e1.chunk.js.map": "/track-expenses/static/js/276.70b6b7e1.chunk.js.map",
     "757.d80a40af.chunk.js.map": "/track-expenses/static/js/757.d80a40af.chunk.js.map",
     "413.b1806df1.chunk.js.map": "/track-expenses/static/js/413.b1806df1.chunk.js.map",
@@ -46,6 +46,6 @@
   },
   "entrypoints": [
     "static/css/main.f773d2b2.css",
-    "static/js/main.29c15589.js"
+    "static/js/main.4fc14b94.js"
   ]
 }
